@@ -1,17 +1,19 @@
-# 📡 Network Speed Monitor (Windows)
+# Network Speed Monitor (Windows)
 
 A lightweight desktop application built with **Python** and **Tkinter** that displays:
 
-- 📥 Real-time download speed (MB/s)
-- 📊 Total downloaded data (MB)
-- 📌 Always-on-top floating window
+- Real-time download speed (MB/s)
+- Total downloaded data (MB)
+- Always-on-top floating window
 
-## 🖥️ Screenshot
-(Optional: You can add a screenshot here later)
+## Screenshot
+
+![Application Screenshot](assets/screenshot.png)
+
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Option 1 – Run from Source
 
@@ -34,7 +36,7 @@ Download the `.exe` file from the **Releases** section and run it directly.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Tkinter
@@ -43,7 +45,7 @@ Download the `.exe` file from the **Releases** section and run it directly.
 
 ---
 
-## 📌 Features
+## Features
 
 - Updates every 1 second
 - Lightweight and minimal UI
@@ -51,6 +53,6 @@ Download the `.exe` file from the **Releases** section and run it directly.
 
 ---
 
-## 📄 License
+## License
 
 MIT License
