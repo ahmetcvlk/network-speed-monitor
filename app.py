@@ -10,7 +10,7 @@ def update_speed():
     last_recv = net_io.bytes_recv
     total = net_io.bytes_recv / 1024 / 1024  # MB
 
-    label.config(text=f"Download: {download_speed:.2f} MB/s\nTotal: {total:.2f} MB/s")
+    label.config(text=f"Download: {download_speed:.2f} MB/s\nTotal: {total:.2f} MB")
     root.after(1000, update_speed)
 
 
